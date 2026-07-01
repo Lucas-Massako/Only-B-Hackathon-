@@ -103,4 +103,24 @@ Dashboard Streamlit (:8501) ← pipeline scikit-learn
 
 ## Équipe
 
-Hackathon ESTIAM × 42c — Juillet 2026
+**Only B** — Hackathon ESTIAM × 42c — Juillet 2026
+
+| Prénom | Nom | Niveau | Filière |
+|--------|-----|--------|---------|
+| Benjamin Léo | CHASSIER | ESTIAM 3 | E3 DAD Paris |
+| Charlène | MELIN | ESTIAM 4 | E4 BDAI Paris |
+| Dorian Patrick Jean | LENOIR | ESTIAM 4 | E4 WMD Paris |
+| Fergal | NDAMVU NGOMA SUNDA | ESTIAM 3 | E3 CCSN Paris |
+| Finaritra Nirina Fitia | RAVELONARIVO | ESTIAM 4 | E4 BDAI Paris |
+| Lucas Benoît | MASSAKO | ESTIAM 3 | E3 DAD Paris |
+| Maxime Jules-Elliott | FELTRIN | ESTIAM 5 | E5 CCSN Paris |
+| Ousmane Mamadou | DJIRE | ESTIAM 5 | E5 BDAI Paris |
+| Quentin | GAUTIER | ESTIAM 5 | E5 WMD Paris |
+| Sidy | DIALLO | ESTIAM 5 | E5 BDAI Paris |
+| Svel David | KOUA | ESTIAM 4 | E4 WMD Paris |
+| Thibault Bruno | DRUELLE | ESTIAM 4 | E4 BDAI Paris |
+| Thomas | DOMMANGET | ESTIAM 5 | E5 SAP ERP Cloud & Data Paris |
+| Yanis | MEKKAOUI | ESTIAM 5 | E5 CCSN Paris |
+| Yao Ibrahim | LASSIDAN | ESTIAM 4 | E4 CCSN Paris |
+
+> Chef de groupe : **Thomas DOMMANGET**
