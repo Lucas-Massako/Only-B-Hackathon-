@@ -1,0 +1,1797 @@
+{
+  "roomId": "DEMO42",
+  "exportedAt": "2026-06-30T16:16:59.901776",
+  "videoDuration": 600,
+  "sessions": [
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-001",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782826319897,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-001"
+        },
+        {
+          "timestamp": 1782826460255,
+          "event": "pause",
+          "currentTime": 140.4,
+          "viewerId": "viewer-001"
+        },
+        {
+          "timestamp": 1782826467810,
+          "event": "seek",
+          "currentTime": 147.9,
+          "viewerId": "viewer-001"
+        },
+        {
+          "timestamp": 1782826468810,
+          "event": "play",
+          "currentTime": 147.9,
+          "viewerId": "viewer-001"
+        },
+        {
+          "timestamp": 1782826484689,
+          "event": "pause",
+          "currentTime": 164.8,
+          "viewerId": "viewer-001"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-002",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782826979898,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-002"
+        },
+        {
+          "timestamp": 1782827104373,
+          "event": "pause",
+          "currentTime": 124.5,
+          "viewerId": "viewer-002"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-003",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782826139898,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-003"
+        },
+        {
+          "timestamp": 1782826255505,
+          "event": "pause",
+          "currentTime": 115.6,
+          "viewerId": "viewer-003"
+        },
+        {
+          "timestamp": 1782826259398,
+          "event": "play",
+          "currentTime": 115.6,
+          "viewerId": "viewer-003"
+        },
+        {
+          "timestamp": 1782826308131,
+          "event": "pause",
+          "currentTime": 168.2,
+          "viewerId": "viewer-003"
+        },
+        {
+          "timestamp": 1782826319700,
+          "event": "seek",
+          "currentTime": 179.8,
+          "viewerId": "viewer-003"
+        },
+        {
+          "timestamp": 1782826320700,
+          "event": "play",
+          "currentTime": 179.8,
+          "viewerId": "viewer-003"
+        },
+        {
+          "timestamp": 1782826445652,
+          "event": "pause",
+          "currentTime": 305.8,
+          "viewerId": "viewer-003"
+        },
+        {
+          "timestamp": 1782826451977,
+          "event": "play",
+          "currentTime": 305.8,
+          "viewerId": "viewer-003"
+        },
+        {
+          "timestamp": 1782826527711,
+          "event": "pause",
+          "currentTime": 387.8,
+          "viewerId": "viewer-003"
+        },
+        {
+          "timestamp": 1782826554474,
+          "event": "seek",
+          "currentTime": 414.6,
+          "viewerId": "viewer-003"
+        },
+        {
+          "timestamp": 1782826555474,
+          "event": "play",
+          "currentTime": 414.6,
+          "viewerId": "viewer-003"
+        },
+        {
+          "timestamp": 1782826576653,
+          "event": "pause",
+          "currentTime": 436.8,
+          "viewerId": "viewer-003"
+        },
+        {
+          "timestamp": 1782826595138,
+          "event": "seek",
+          "currentTime": 455.2,
+          "viewerId": "viewer-003"
+        },
+        {
+          "timestamp": 1782826596138,
+          "event": "play",
+          "currentTime": 455.2,
+          "viewerId": "viewer-003"
+        },
+        {
+          "timestamp": 1782826605149,
+          "event": "seek",
+          "currentTime": 436.7,
+          "viewerId": "viewer-003"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-004",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782827579898,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-004"
+        },
+        {
+          "timestamp": 1782827637151,
+          "event": "pause",
+          "currentTime": 57.3,
+          "viewerId": "viewer-004"
+        },
+        {
+          "timestamp": 1782827642474,
+          "event": "play",
+          "currentTime": 57.3,
+          "viewerId": "viewer-004"
+        },
+        {
+          "timestamp": 1782827658643,
+          "event": "pause",
+          "currentTime": 78.7,
+          "viewerId": "viewer-004"
+        },
+        {
+          "timestamp": 1782827662625,
+          "event": "play",
+          "currentTime": 78.7,
+          "viewerId": "viewer-004"
+        },
+        {
+          "timestamp": 1782828117677,
+          "event": "pause",
+          "currentTime": 537.8,
+          "viewerId": "viewer-004"
+        },
+        {
+          "timestamp": 1782828123404,
+          "event": "play",
+          "currentTime": 537.8,
+          "viewerId": "viewer-004"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-005",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782826619898,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-005"
+        },
+        {
+          "timestamp": 1782826751724,
+          "event": "pause",
+          "currentTime": 131.8,
+          "viewerId": "viewer-005"
+        },
+        {
+          "timestamp": 1782826772652,
+          "event": "seek",
+          "currentTime": 152.8,
+          "viewerId": "viewer-005"
+        },
+        {
+          "timestamp": 1782826773652,
+          "event": "play",
+          "currentTime": 152.8,
+          "viewerId": "viewer-005"
+        },
+        {
+          "timestamp": 1782826793685,
+          "event": "pause",
+          "currentTime": 173.8,
+          "viewerId": "viewer-005"
+        },
+        {
+          "timestamp": 1782826796137,
+          "event": "play",
+          "currentTime": 173.8,
+          "viewerId": "viewer-005"
+        },
+        {
+          "timestamp": 1782827053702,
+          "event": "pause",
+          "currentTime": 433.8,
+          "viewerId": "viewer-005"
+        },
+        {
+          "timestamp": 1782827070209,
+          "event": "seek",
+          "currentTime": 450.3,
+          "viewerId": "viewer-005"
+        },
+        {
+          "timestamp": 1782827071209,
+          "event": "play",
+          "currentTime": 450.3,
+          "viewerId": "viewer-005"
+        },
+        {
+          "timestamp": 1782827084761,
+          "event": "pause",
+          "currentTime": 464.9,
+          "viewerId": "viewer-005"
+        },
+        {
+          "timestamp": 1782827087920,
+          "event": "play",
+          "currentTime": 464.9,
+          "viewerId": "viewer-005"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-006",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782826799898,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-006"
+        },
+        {
+          "timestamp": 1782826926215,
+          "event": "pause",
+          "currentTime": 126.3,
+          "viewerId": "viewer-006"
+        },
+        {
+          "timestamp": 1782826943893,
+          "event": "seek",
+          "currentTime": 144.0,
+          "viewerId": "viewer-006"
+        },
+        {
+          "timestamp": 1782826944893,
+          "event": "play",
+          "currentTime": 144.0,
+          "viewerId": "viewer-006"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-007",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782827039898,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-007"
+        },
+        {
+          "timestamp": 1782827167299,
+          "event": "seek",
+          "currentTime": 110.4,
+          "viewerId": "viewer-007"
+        },
+        {
+          "timestamp": 1782827231707,
+          "event": "seek",
+          "currentTime": 175.1,
+          "viewerId": "viewer-007"
+        },
+        {
+          "timestamp": 1782827361814,
+          "event": "seek",
+          "currentTime": 301.1,
+          "viewerId": "viewer-007"
+        },
+        {
+          "timestamp": 1782827446429,
+          "event": "pause",
+          "currentTime": 406.5,
+          "viewerId": "viewer-007"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-008",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782828179898,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-008"
+        },
+        {
+          "timestamp": 1782828341017,
+          "event": "pause",
+          "currentTime": 161.1,
+          "viewerId": "viewer-008"
+        },
+        {
+          "timestamp": 1782828366155,
+          "event": "seek",
+          "currentTime": 186.3,
+          "viewerId": "viewer-008"
+        },
+        {
+          "timestamp": 1782828367155,
+          "event": "play",
+          "currentTime": 186.3,
+          "viewerId": "viewer-008"
+        },
+        {
+          "timestamp": 1782828388355,
+          "event": "seek",
+          "currentTime": 190.1,
+          "viewerId": "viewer-008"
+        },
+        {
+          "timestamp": 1782828564437,
+          "event": "pause",
+          "currentTime": 384.5,
+          "viewerId": "viewer-008"
+        },
+        {
+          "timestamp": 1782828578308,
+          "event": "seek",
+          "currentTime": 398.4,
+          "viewerId": "viewer-008"
+        },
+        {
+          "timestamp": 1782828579308,
+          "event": "play",
+          "currentTime": 398.4,
+          "viewerId": "viewer-008"
+        },
+        {
+          "timestamp": 1782828614052,
+          "event": "pause",
+          "currentTime": 434.2,
+          "viewerId": "viewer-008"
+        },
+        {
+          "timestamp": 1782828632931,
+          "event": "seek",
+          "currentTime": 453.0,
+          "viewerId": "viewer-008"
+        },
+        {
+          "timestamp": 1782828633931,
+          "event": "play",
+          "currentTime": 453.0,
+          "viewerId": "viewer-008"
+        },
+        {
+          "timestamp": 1782828657168,
+          "event": "seek",
+          "currentTime": 461.4,
+          "viewerId": "viewer-008"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-009",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782825899899,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-009"
+        },
+        {
+          "timestamp": 1782826047394,
+          "event": "pause",
+          "currentTime": 147.5,
+          "viewerId": "viewer-009"
+        },
+        {
+          "timestamp": 1782826064337,
+          "event": "seek",
+          "currentTime": 164.4,
+          "viewerId": "viewer-009"
+        },
+        {
+          "timestamp": 1782826065337,
+          "event": "play",
+          "currentTime": 164.4,
+          "viewerId": "viewer-009"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-010",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782825839899,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-010"
+        },
+        {
+          "timestamp": 1782825960620,
+          "event": "pause",
+          "currentTime": 120.7,
+          "viewerId": "viewer-010"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-011",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782828299899,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-011"
+        },
+        {
+          "timestamp": 1782828457470,
+          "event": "pause",
+          "currentTime": 157.6,
+          "viewerId": "viewer-011"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-012",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782826619899,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-012"
+        },
+        {
+          "timestamp": 1782826753260,
+          "event": "pause",
+          "currentTime": 133.4,
+          "viewerId": "viewer-012"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-013",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782825779899,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-013"
+        },
+        {
+          "timestamp": 1782825970078,
+          "event": "pause",
+          "currentTime": 190.2,
+          "viewerId": "viewer-013"
+        },
+        {
+          "timestamp": 1782825975092,
+          "event": "play",
+          "currentTime": 190.2,
+          "viewerId": "viewer-013"
+        },
+        {
+          "timestamp": 1782826150262,
+          "event": "pause",
+          "currentTime": 370.4,
+          "viewerId": "viewer-013"
+        },
+        {
+          "timestamp": 1782826152673,
+          "event": "play",
+          "currentTime": 370.4,
+          "viewerId": "viewer-013"
+        },
+        {
+          "timestamp": 1782826214530,
+          "event": "pause",
+          "currentTime": 434.6,
+          "viewerId": "viewer-013"
+        },
+        {
+          "timestamp": 1782826221307,
+          "event": "play",
+          "currentTime": 434.6,
+          "viewerId": "viewer-013"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-014",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782827819899,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-014"
+        },
+        {
+          "timestamp": 1782827861512,
+          "event": "pause",
+          "currentTime": 41.6,
+          "viewerId": "viewer-014"
+        },
+        {
+          "timestamp": 1782827868492,
+          "event": "play",
+          "currentTime": 41.6,
+          "viewerId": "viewer-014"
+        },
+        {
+          "timestamp": 1782827970153,
+          "event": "pause",
+          "currentTime": 150.3,
+          "viewerId": "viewer-014"
+        },
+        {
+          "timestamp": 1782827976139,
+          "event": "seek",
+          "currentTime": 156.2,
+          "viewerId": "viewer-014"
+        },
+        {
+          "timestamp": 1782827977139,
+          "event": "play",
+          "currentTime": 156.2,
+          "viewerId": "viewer-014"
+        },
+        {
+          "timestamp": 1782827993436,
+          "event": "pause",
+          "currentTime": 173.5,
+          "viewerId": "viewer-014"
+        },
+        {
+          "timestamp": 1782828006604,
+          "event": "seek",
+          "currentTime": 186.7,
+          "viewerId": "viewer-014"
+        },
+        {
+          "timestamp": 1782828007604,
+          "event": "play",
+          "currentTime": 186.7,
+          "viewerId": "viewer-014"
+        },
+        {
+          "timestamp": 1782828234195,
+          "event": "pause",
+          "currentTime": 414.3,
+          "viewerId": "viewer-014"
+        },
+        {
+          "timestamp": 1782828255386,
+          "event": "seek",
+          "currentTime": 435.5,
+          "viewerId": "viewer-014"
+        },
+        {
+          "timestamp": 1782828256386,
+          "event": "play",
+          "currentTime": 435.5,
+          "viewerId": "viewer-014"
+        },
+        {
+          "timestamp": 1782828290315,
+          "event": "pause",
+          "currentTime": 470.4,
+          "viewerId": "viewer-014"
+        },
+        {
+          "timestamp": 1782828298290,
+          "event": "play",
+          "currentTime": 470.4,
+          "viewerId": "viewer-014"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-015",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782827339899,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-015"
+        },
+        {
+          "timestamp": 1782827428546,
+          "event": "seek",
+          "currentTime": 62.9,
+          "viewerId": "viewer-015"
+        },
+        {
+          "timestamp": 1782827497119,
+          "event": "pause",
+          "currentTime": 157.2,
+          "viewerId": "viewer-015"
+        },
+        {
+          "timestamp": 1782827505736,
+          "event": "seek",
+          "currentTime": 165.8,
+          "viewerId": "viewer-015"
+        },
+        {
+          "timestamp": 1782827506736,
+          "event": "play",
+          "currentTime": 165.8,
+          "viewerId": "viewer-015"
+        },
+        {
+          "timestamp": 1782827519226,
+          "event": "pause",
+          "currentTime": 179.3,
+          "viewerId": "viewer-015"
+        },
+        {
+          "timestamp": 1782827521315,
+          "event": "play",
+          "currentTime": 179.3,
+          "viewerId": "viewer-015"
+        },
+        {
+          "timestamp": 1782827619119,
+          "event": "pause",
+          "currentTime": 279.2,
+          "viewerId": "viewer-015"
+        },
+        {
+          "timestamp": 1782827625819,
+          "event": "play",
+          "currentTime": 279.2,
+          "viewerId": "viewer-015"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-016",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782825419899,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-016"
+        },
+        {
+          "timestamp": 1782825578721,
+          "event": "pause",
+          "currentTime": 158.8,
+          "viewerId": "viewer-016"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-017",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782825839899,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-017"
+        },
+        {
+          "timestamp": 1782826064084,
+          "event": "pause",
+          "currentTime": 224.2,
+          "viewerId": "viewer-017"
+        },
+        {
+          "timestamp": 1782826068455,
+          "event": "play",
+          "currentTime": 224.2,
+          "viewerId": "viewer-017"
+        },
+        {
+          "timestamp": 1782826168643,
+          "event": "pause",
+          "currentTime": 328.7,
+          "viewerId": "viewer-017"
+        },
+        {
+          "timestamp": 1782826170756,
+          "event": "play",
+          "currentTime": 328.7,
+          "viewerId": "viewer-017"
+        },
+        {
+          "timestamp": 1782826220076,
+          "event": "pause",
+          "currentTime": 380.2,
+          "viewerId": "viewer-017"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-018",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782828659899,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-018"
+        },
+        {
+          "timestamp": 1782828820090,
+          "event": "pause",
+          "currentTime": 160.2,
+          "viewerId": "viewer-018"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-019",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782828059899,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-019"
+        },
+        {
+          "timestamp": 1782828184572,
+          "event": "pause",
+          "currentTime": 124.7,
+          "viewerId": "viewer-019"
+        },
+        {
+          "timestamp": 1782828197142,
+          "event": "seek",
+          "currentTime": 137.2,
+          "viewerId": "viewer-019"
+        },
+        {
+          "timestamp": 1782828198142,
+          "event": "play",
+          "currentTime": 137.2,
+          "viewerId": "viewer-019"
+        },
+        {
+          "timestamp": 1782828217289,
+          "event": "pause",
+          "currentTime": 157.4,
+          "viewerId": "viewer-019"
+        },
+        {
+          "timestamp": 1782828223711,
+          "event": "seek",
+          "currentTime": 163.8,
+          "viewerId": "viewer-019"
+        },
+        {
+          "timestamp": 1782828224711,
+          "event": "play",
+          "currentTime": 163.8,
+          "viewerId": "viewer-019"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-020",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782828479899,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-020"
+        },
+        {
+          "timestamp": 1782828610075,
+          "event": "pause",
+          "currentTime": 130.2,
+          "viewerId": "viewer-020"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-021",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782825959899,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-021"
+        },
+        {
+          "timestamp": 1782826115864,
+          "event": "pause",
+          "currentTime": 156.0,
+          "viewerId": "viewer-021"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-022",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782826259900,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-022"
+        },
+        {
+          "timestamp": 1782826410227,
+          "event": "pause",
+          "currentTime": 150.3,
+          "viewerId": "viewer-022"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-023",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782827519900,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-023"
+        },
+        {
+          "timestamp": 1782827625050,
+          "event": "seek",
+          "currentTime": 93.6,
+          "viewerId": "viewer-023"
+        },
+        {
+          "timestamp": 1782827660724,
+          "event": "pause",
+          "currentTime": 140.8,
+          "viewerId": "viewer-023"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-024",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782827579900,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-024"
+        },
+        {
+          "timestamp": 1782827723008,
+          "event": "pause",
+          "currentTime": 143.1,
+          "viewerId": "viewer-024"
+        },
+        {
+          "timestamp": 1782827730248,
+          "event": "play",
+          "currentTime": 143.1,
+          "viewerId": "viewer-024"
+        },
+        {
+          "timestamp": 1782827752097,
+          "event": "pause",
+          "currentTime": 172.2,
+          "viewerId": "viewer-024"
+        },
+        {
+          "timestamp": 1782827759689,
+          "event": "seek",
+          "currentTime": 179.8,
+          "viewerId": "viewer-024"
+        },
+        {
+          "timestamp": 1782827760689,
+          "event": "play",
+          "currentTime": 179.8,
+          "viewerId": "viewer-024"
+        },
+        {
+          "timestamp": 1782827931921,
+          "event": "pause",
+          "currentTime": 352.0,
+          "viewerId": "viewer-024"
+        },
+        {
+          "timestamp": 1782827937856,
+          "event": "play",
+          "currentTime": 352.0,
+          "viewerId": "viewer-024"
+        },
+        {
+          "timestamp": 1782828000544,
+          "event": "pause",
+          "currentTime": 420.6,
+          "viewerId": "viewer-024"
+        },
+        {
+          "timestamp": 1782828012212,
+          "event": "seek",
+          "currentTime": 432.3,
+          "viewerId": "viewer-024"
+        },
+        {
+          "timestamp": 1782828013212,
+          "event": "play",
+          "currentTime": 432.3,
+          "viewerId": "viewer-024"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-025",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782826259900,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-025"
+        },
+        {
+          "timestamp": 1782826387566,
+          "event": "pause",
+          "currentTime": 127.7,
+          "viewerId": "viewer-025"
+        },
+        {
+          "timestamp": 1782826417476,
+          "event": "seek",
+          "currentTime": 157.6,
+          "viewerId": "viewer-025"
+        },
+        {
+          "timestamp": 1782826418476,
+          "event": "play",
+          "currentTime": 157.6,
+          "viewerId": "viewer-025"
+        },
+        {
+          "timestamp": 1782826437300,
+          "event": "pause",
+          "currentTime": 177.4,
+          "viewerId": "viewer-025"
+        },
+        {
+          "timestamp": 1782826453601,
+          "event": "seek",
+          "currentTime": 193.7,
+          "viewerId": "viewer-025"
+        },
+        {
+          "timestamp": 1782826454601,
+          "event": "play",
+          "currentTime": 193.7,
+          "viewerId": "viewer-025"
+        },
+        {
+          "timestamp": 1782826665889,
+          "event": "pause",
+          "currentTime": 406.0,
+          "viewerId": "viewer-025"
+        },
+        {
+          "timestamp": 1782826686947,
+          "event": "seek",
+          "currentTime": 427.0,
+          "viewerId": "viewer-025"
+        },
+        {
+          "timestamp": 1782826687947,
+          "event": "play",
+          "currentTime": 427.0,
+          "viewerId": "viewer-025"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-026",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782826439900,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-026"
+        },
+        {
+          "timestamp": 1782826574613,
+          "event": "pause",
+          "currentTime": 134.7,
+          "viewerId": "viewer-026"
+        },
+        {
+          "timestamp": 1782826589765,
+          "event": "seek",
+          "currentTime": 149.9,
+          "viewerId": "viewer-026"
+        },
+        {
+          "timestamp": 1782826590765,
+          "event": "play",
+          "currentTime": 149.9,
+          "viewerId": "viewer-026"
+        },
+        {
+          "timestamp": 1782826819928,
+          "event": "pause",
+          "currentTime": 380.0,
+          "viewerId": "viewer-026"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-027",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782828359900,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-027"
+        },
+        {
+          "timestamp": 1782828490541,
+          "event": "pause",
+          "currentTime": 130.6,
+          "viewerId": "viewer-027"
+        },
+        {
+          "timestamp": 1782828514415,
+          "event": "seek",
+          "currentTime": 154.5,
+          "viewerId": "viewer-027"
+        },
+        {
+          "timestamp": 1782828515415,
+          "event": "play",
+          "currentTime": 154.5,
+          "viewerId": "viewer-027"
+        },
+        {
+          "timestamp": 1782828534416,
+          "event": "pause",
+          "currentTime": 174.5,
+          "viewerId": "viewer-027"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-028",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782827459900,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-028"
+        },
+        {
+          "timestamp": 1782827596757,
+          "event": "pause",
+          "currentTime": 136.9,
+          "viewerId": "viewer-028"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-029",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782828299900,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-029"
+        },
+        {
+          "timestamp": 1782828354005,
+          "event": "seek",
+          "currentTime": 34.6,
+          "viewerId": "viewer-029"
+        },
+        {
+          "timestamp": 1782828445132,
+          "event": "pause",
+          "currentTime": 145.2,
+          "viewerId": "viewer-029"
+        },
+        {
+          "timestamp": 1782828450922,
+          "event": "seek",
+          "currentTime": 151.0,
+          "viewerId": "viewer-029"
+        },
+        {
+          "timestamp": 1782828451922,
+          "event": "play",
+          "currentTime": 151.0,
+          "viewerId": "viewer-029"
+        },
+        {
+          "timestamp": 1782828461300,
+          "event": "pause",
+          "currentTime": 161.4,
+          "viewerId": "viewer-029"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-030",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782826079900,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-030"
+        },
+        {
+          "timestamp": 1782826243621,
+          "event": "pause",
+          "currentTime": 163.7,
+          "viewerId": "viewer-030"
+        },
+        {
+          "timestamp": 1782826272554,
+          "event": "seek",
+          "currentTime": 192.7,
+          "viewerId": "viewer-030"
+        },
+        {
+          "timestamp": 1782826273554,
+          "event": "play",
+          "currentTime": 192.7,
+          "viewerId": "viewer-030"
+        },
+        {
+          "timestamp": 1782826476311,
+          "event": "pause",
+          "currentTime": 396.4,
+          "viewerId": "viewer-030"
+        },
+        {
+          "timestamp": 1782826487293,
+          "event": "seek",
+          "currentTime": 407.4,
+          "viewerId": "viewer-030"
+        },
+        {
+          "timestamp": 1782826488293,
+          "event": "play",
+          "currentTime": 407.4,
+          "viewerId": "viewer-030"
+        },
+        {
+          "timestamp": 1782826501807,
+          "event": "pause",
+          "currentTime": 421.9,
+          "viewerId": "viewer-030"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-031",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782827459900,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-031"
+        },
+        {
+          "timestamp": 1782827612358,
+          "event": "pause",
+          "currentTime": 152.5,
+          "viewerId": "viewer-031"
+        },
+        {
+          "timestamp": 1782827642287,
+          "event": "seek",
+          "currentTime": 182.4,
+          "viewerId": "viewer-031"
+        },
+        {
+          "timestamp": 1782827643287,
+          "event": "play",
+          "currentTime": 182.4,
+          "viewerId": "viewer-031"
+        },
+        {
+          "timestamp": 1782827698555,
+          "event": "pause",
+          "currentTime": 238.7,
+          "viewerId": "viewer-031"
+        },
+        {
+          "timestamp": 1782827703962,
+          "event": "play",
+          "currentTime": 238.7,
+          "viewerId": "viewer-031"
+        },
+        {
+          "timestamp": 1782827863131,
+          "event": "pause",
+          "currentTime": 403.2,
+          "viewerId": "viewer-031"
+        },
+        {
+          "timestamp": 1782827872750,
+          "event": "seek",
+          "currentTime": 412.8,
+          "viewerId": "viewer-031"
+        },
+        {
+          "timestamp": 1782827873750,
+          "event": "play",
+          "currentTime": 412.8,
+          "viewerId": "viewer-031"
+        },
+        {
+          "timestamp": 1782827887711,
+          "event": "pause",
+          "currentTime": 427.8,
+          "viewerId": "viewer-031"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-032",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782825839901,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-032"
+        },
+        {
+          "timestamp": 1782826227186,
+          "event": "pause",
+          "currentTime": 387.3,
+          "viewerId": "viewer-032"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-033",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782828719901,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-033"
+        },
+        {
+          "timestamp": 1782828928878,
+          "event": "pause",
+          "currentTime": 209.0,
+          "viewerId": "viewer-033"
+        },
+        {
+          "timestamp": 1782828931014,
+          "event": "play",
+          "currentTime": 209.0,
+          "viewerId": "viewer-033"
+        },
+        {
+          "timestamp": 1782829031906,
+          "event": "seek",
+          "currentTime": 297.9,
+          "viewerId": "viewer-033"
+        },
+        {
+          "timestamp": 1782829043924,
+          "event": "pause",
+          "currentTime": 324.0,
+          "viewerId": "viewer-033"
+        },
+        {
+          "timestamp": 1782829049511,
+          "event": "play",
+          "currentTime": 324.0,
+          "viewerId": "viewer-033"
+        },
+        {
+          "timestamp": 1782829130479,
+          "event": "pause",
+          "currentTime": 410.6,
+          "viewerId": "viewer-033"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-034",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782828179901,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-034"
+        },
+        {
+          "timestamp": 1782828270939,
+          "event": "pause",
+          "currentTime": 91.0,
+          "viewerId": "viewer-034"
+        },
+        {
+          "timestamp": 1782828275005,
+          "event": "play",
+          "currentTime": 91.0,
+          "viewerId": "viewer-034"
+        },
+        {
+          "timestamp": 1782828306727,
+          "event": "pause",
+          "currentTime": 126.8,
+          "viewerId": "viewer-034"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-035",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782826679901,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-035"
+        },
+        {
+          "timestamp": 1782827078044,
+          "event": "pause",
+          "currentTime": 398.1,
+          "viewerId": "viewer-035"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-036",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782827279901,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-036"
+        },
+        {
+          "timestamp": 1782827436523,
+          "event": "pause",
+          "currentTime": 156.6,
+          "viewerId": "viewer-036"
+        },
+        {
+          "timestamp": 1782827442736,
+          "event": "seek",
+          "currentTime": 162.8,
+          "viewerId": "viewer-036"
+        },
+        {
+          "timestamp": 1782827443736,
+          "event": "play",
+          "currentTime": 162.8,
+          "viewerId": "viewer-036"
+        },
+        {
+          "timestamp": 1782827442736,
+          "event": "pause",
+          "currentTime": 162.8,
+          "viewerId": "viewer-036"
+        },
+        {
+          "timestamp": 1782827445561,
+          "event": "play",
+          "currentTime": 162.8,
+          "viewerId": "viewer-036"
+        },
+        {
+          "timestamp": 1782827454095,
+          "event": "pause",
+          "currentTime": 174.2,
+          "viewerId": "viewer-036"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-037",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782826979901,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-037"
+        },
+        {
+          "timestamp": 1782827029827,
+          "event": "seek",
+          "currentTime": 29.3,
+          "viewerId": "viewer-037"
+        },
+        {
+          "timestamp": 1782827045322,
+          "event": "seek",
+          "currentTime": 39.2,
+          "viewerId": "viewer-037"
+        },
+        {
+          "timestamp": 1782827181378,
+          "event": "pause",
+          "currentTime": 201.5,
+          "viewerId": "viewer-037"
+        },
+        {
+          "timestamp": 1782827184406,
+          "event": "play",
+          "currentTime": 201.5,
+          "viewerId": "viewer-037"
+        },
+        {
+          "timestamp": 1782827298575,
+          "event": "pause",
+          "currentTime": 318.7,
+          "viewerId": "viewer-037"
+        },
+        {
+          "timestamp": 1782827306147,
+          "event": "play",
+          "currentTime": 318.7,
+          "viewerId": "viewer-037"
+        },
+        {
+          "timestamp": 1782827365307,
+          "event": "pause",
+          "currentTime": 385.4,
+          "viewerId": "viewer-037"
+        },
+        {
+          "timestamp": 1782827380036,
+          "event": "seek",
+          "currentTime": 400.1,
+          "viewerId": "viewer-037"
+        },
+        {
+          "timestamp": 1782827381036,
+          "event": "play",
+          "currentTime": 400.1,
+          "viewerId": "viewer-037"
+        },
+        {
+          "timestamp": 1782827405149,
+          "event": "pause",
+          "currentTime": 425.2,
+          "viewerId": "viewer-037"
+        },
+        {
+          "timestamp": 1782827428253,
+          "event": "seek",
+          "currentTime": 448.4,
+          "viewerId": "viewer-037"
+        },
+        {
+          "timestamp": 1782827429253,
+          "event": "play",
+          "currentTime": 448.4,
+          "viewerId": "viewer-037"
+        },
+        {
+          "timestamp": 1782827474072,
+          "event": "seek",
+          "currentTime": 478.7,
+          "viewerId": "viewer-037"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-038",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782828179901,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-038"
+        },
+        {
+          "timestamp": 1782828314818,
+          "event": "pause",
+          "currentTime": 134.9,
+          "viewerId": "viewer-038"
+        },
+        {
+          "timestamp": 1782828319301,
+          "event": "play",
+          "currentTime": 134.9,
+          "viewerId": "viewer-038"
+        },
+        {
+          "timestamp": 1782828440473,
+          "event": "pause",
+          "currentTime": 260.6,
+          "viewerId": "viewer-038"
+        },
+        {
+          "timestamp": 1782828444847,
+          "event": "play",
+          "currentTime": 260.6,
+          "viewerId": "viewer-038"
+        },
+        {
+          "timestamp": 1782828740050,
+          "event": "pause",
+          "currentTime": 560.1,
+          "viewerId": "viewer-038"
+        },
+        {
+          "timestamp": 1782828747861,
+          "event": "play",
+          "currentTime": 560.1,
+          "viewerId": "viewer-038"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-039",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782826259901,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-039"
+        },
+        {
+          "timestamp": 1782826312765,
+          "event": "seek",
+          "currentTime": 37.7,
+          "viewerId": "viewer-039"
+        },
+        {
+          "timestamp": 1782826390421,
+          "event": "pause",
+          "currentTime": 130.5,
+          "viewerId": "viewer-039"
+        },
+        {
+          "timestamp": 1782826419464,
+          "event": "seek",
+          "currentTime": 159.6,
+          "viewerId": "viewer-039"
+        },
+        {
+          "timestamp": 1782826420464,
+          "event": "play",
+          "currentTime": 159.6,
+          "viewerId": "viewer-039"
+        },
+        {
+          "timestamp": 1782826432298,
+          "event": "pause",
+          "currentTime": 172.4,
+          "viewerId": "viewer-039"
+        },
+        {
+          "timestamp": 1782826442470,
+          "event": "seek",
+          "currentTime": 182.6,
+          "viewerId": "viewer-039"
+        },
+        {
+          "timestamp": 1782826443470,
+          "event": "play",
+          "currentTime": 182.6,
+          "viewerId": "viewer-039"
+        },
+        {
+          "timestamp": 1782826645390,
+          "event": "pause",
+          "currentTime": 385.5,
+          "viewerId": "viewer-039"
+        },
+        {
+          "timestamp": 1782826656949,
+          "event": "seek",
+          "currentTime": 397.0,
+          "viewerId": "viewer-039"
+        },
+        {
+          "timestamp": 1782826657949,
+          "event": "play",
+          "currentTime": 397.0,
+          "viewerId": "viewer-039"
+        },
+        {
+          "timestamp": 1782826864942,
+          "event": "pause",
+          "currentTime": 605.0,
+          "viewerId": "viewer-039"
+        },
+        {
+          "timestamp": 1782826867761,
+          "event": "play",
+          "currentTime": 605.0,
+          "viewerId": "viewer-039"
+        }
+      ],
+      "videoDuration": 600
+    },
+    {
+      "roomId": "DEMO42",
+      "viewerId": "viewer-040",
+      "role": "viewer",
+      "logs": [
+        {
+          "timestamp": 1782826619901,
+          "event": "play",
+          "currentTime": 0.0,
+          "viewerId": "viewer-040"
+        },
+        {
+          "timestamp": 1782826669976,
+          "event": "pause",
+          "currentTime": 50.1,
+          "viewerId": "viewer-040"
+        },
+        {
+          "timestamp": 1782826676542,
+          "event": "play",
+          "currentTime": 50.1,
+          "viewerId": "viewer-040"
+        },
+        {
+          "timestamp": 1782827149343,
+          "event": "pause",
+          "currentTime": 529.4,
+          "viewerId": "viewer-040"
+        },
+        {
+          "timestamp": 1782827155988,
+          "event": "play",
+          "currentTime": 529.4,
+          "viewerId": "viewer-040"
+        }
+      ],
+      "videoDuration": 600
+    }
+  ]
+}

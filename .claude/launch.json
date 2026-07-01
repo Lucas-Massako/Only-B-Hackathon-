@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "watch-together",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": ["-c", "cd 'watch-together' && npm start"],
+      "port": 3000,
+      "autoPort": false
+    }
+  ]
+}

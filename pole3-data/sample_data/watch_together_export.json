@@ -1,0 +1,36 @@
+{
+  "roomId": "DEMO42",
+  "role": "presenter",
+  "logs": [
+    {
+      "timestamp": 1782826319897,
+      "event": "play",
+      "currentTime": 0.0,
+      "viewerId": "viewer-001"
+    },
+    {
+      "timestamp": 1782826460255,
+      "event": "pause",
+      "currentTime": 140.4,
+      "viewerId": "viewer-001"
+    },
+    {
+      "timestamp": 1782826467810,
+      "event": "seek",
+      "currentTime": 147.9,
+      "viewerId": "viewer-001"
+    },
+    {
+      "timestamp": 1782826468810,
+      "event": "play",
+      "currentTime": 147.9,
+      "viewerId": "viewer-001"
+    },
+    {
+      "timestamp": 1782826484689,
+      "event": "pause",
+      "currentTime": 164.8,
+      "viewerId": "viewer-001"
+    }
+  ]
+}

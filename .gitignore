@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Uploads & logs (générés en runtime)
+watch-together/server/uploads/
+watch-together/server/logs/
+
+# Build
+watch-together/build/
+
+# Env
+.env
+.env.local
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# IDE
+.vscode/
+.idea/
